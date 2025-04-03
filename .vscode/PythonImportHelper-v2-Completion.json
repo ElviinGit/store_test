@@ -1,0 +1,737 @@
+[
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "db",
+        "description": "db",
+        "isExtraImport": true,
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "reqparse",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Resource",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "reqparse",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "Api",
+        "importPath": "flask_restful",
+        "description": "flask_restful",
+        "isExtraImport": true,
+        "detail": "flask_restful",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "JWTManager",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "ItemModel",
+        "importPath": "models.item",
+        "description": "models.item",
+        "isExtraImport": true,
+        "detail": "models.item",
+        "documentation": {}
+    },
+    {
+        "label": "ItemModel",
+        "importPath": "models.item",
+        "description": "models.item",
+        "isExtraImport": true,
+        "detail": "models.item",
+        "documentation": {}
+    },
+    {
+        "label": "ItemModel",
+        "importPath": "models.item",
+        "description": "models.item",
+        "isExtraImport": true,
+        "detail": "models.item",
+        "documentation": {}
+    },
+    {
+        "label": "StoreModel",
+        "importPath": "models.store",
+        "description": "models.store",
+        "isExtraImport": true,
+        "detail": "models.store",
+        "documentation": {}
+    },
+    {
+        "label": "StoreModel",
+        "importPath": "models.store",
+        "description": "models.store",
+        "isExtraImport": true,
+        "detail": "models.store",
+        "documentation": {}
+    },
+    {
+        "label": "StoreModel",
+        "importPath": "models.store",
+        "description": "models.store",
+        "isExtraImport": true,
+        "detail": "models.store",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "models.user",
+        "description": "models.user",
+        "isExtraImport": true,
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "importPath": "tests.base_test",
+        "description": "tests.base_test",
+        "isExtraImport": true,
+        "detail": "tests.base_test",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "importPath": "tests.base_test",
+        "description": "tests.base_test",
+        "isExtraImport": true,
+        "detail": "tests.base_test",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "importPath": "tests.base_test",
+        "description": "tests.base_test",
+        "isExtraImport": true,
+        "detail": "tests.base_test",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "importPath": "tests.base_test",
+        "description": "tests.base_test",
+        "isExtraImport": true,
+        "detail": "tests.base_test",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "UserTest",
+        "importPath": "tests.integration.test_user",
+        "description": "tests.integration.test_user",
+        "isExtraImport": true,
+        "detail": "tests.integration.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "UnitBaseTest",
+        "importPath": "tests.unit.unit_base_test",
+        "description": "tests.unit.unit_base_test",
+        "isExtraImport": true,
+        "detail": "tests.unit.unit_base_test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "unittest",
+        "description": "unittest",
+        "isExtraImport": true,
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "isExtraImport": true,
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "ItemList",
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "isExtraImport": true,
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "importPath": "resources.store",
+        "description": "resources.store",
+        "isExtraImport": true,
+        "detail": "resources.store",
+        "documentation": {}
+    },
+    {
+        "label": "StoreList",
+        "importPath": "resources.store",
+        "description": "resources.store",
+        "isExtraImport": true,
+        "detail": "resources.store",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "resources.user",
+        "description": "resources.user",
+        "isExtraImport": true,
+        "detail": "resources.user",
+        "documentation": {}
+    },
+    {
+        "label": "them",
+        "importPath": "security import authenticate. identity  # You can still",
+        "description": "security import authenticate. identity  # You can still",
+        "isExtraImport": true,
+        "detail": "security import authenticate. identity  # You can still",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ItemModel",
+        "kind": 6,
+        "importPath": "models.item",
+        "description": "models.item",
+        "peekOfCode": "class ItemModel(db.Model):\n    __tablename__ = 'items'\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(80))\n    price = db.Column(db.Float(precision=2))\n    store_id = db.Column(db.Integer, db.ForeignKey('stores.id'))\n    store = db.relationship('StoreModel', back_populates='items', overlaps='store')\n    def __init__(self, name, price, store_id):\n        self.name = name\n        self.price = price",
+        "detail": "models.item",
+        "documentation": {}
+    },
+    {
+        "label": "StoreModel",
+        "kind": 6,
+        "importPath": "models.store",
+        "description": "models.store",
+        "peekOfCode": "class StoreModel(db.Model):\n    __tablename__ = 'stores'\n    id = db.Column(db.Integer, primary_key=True)\n    name = db.Column(db.String(80))\n    items = db.relationship('ItemModel', back_populates='store', lazy='dynamic', overlaps='store')\n    def __init__(self, name):\n        self.name = name\n    def json(self):\n        return {'name': self.name, 'items': [item.json() for item in self.items.all()]}\n    @classmethod",
+        "detail": "models.store",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "models.user",
+        "description": "models.user",
+        "peekOfCode": "class UserModel(db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer, primary_key=True)\n    username = db.Column(db.String(80), unique=True, nullable=False)  # Added unique and nullable constraints\n    password = db.Column(db.String(255), nullable=False)  # Ensure enough length for hashed passwords\n    def __init__(self, username, password):\n        self.username = username\n        self.password = password\n    def save_to_db(self):\n        db.session.add(self)",
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "Item",
+        "kind": 6,
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "peekOfCode": "class Item(Resource):\n    parser = reqparse.RequestParser()\n    parser.add_argument('price',\n                        type=float,\n                        required=True,\n                        help=\"This field cannot be left blank!\")\n    parser.add_argument('store_id',\n                        type=int,\n                        required=True,\n                        help=\"Every item needs a store id.\")",
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "ItemList",
+        "kind": 6,
+        "importPath": "resources.item",
+        "description": "resources.item",
+        "peekOfCode": "class ItemList(Resource):\n    def get(self):\n        return {'items': [x.json() for x in ItemModel.query.all()]}",
+        "detail": "resources.item",
+        "documentation": {}
+    },
+    {
+        "label": "Store",
+        "kind": 6,
+        "importPath": "resources.store",
+        "description": "resources.store",
+        "peekOfCode": "class Store(Resource):\n    def get(self, name):\n        store = StoreModel.find_by_name(name)\n        if store:\n            return store.json()\n        return {'message': 'Store not found'}, 404\n    def post(self, name):\n        if StoreModel.find_by_name(name):\n            return {'message': \"A store with name '{}' already exists.\".format(name)}, 400\n        store = StoreModel(name)",
+        "detail": "resources.store",
+        "documentation": {}
+    },
+    {
+        "label": "StoreList",
+        "kind": 6,
+        "importPath": "resources.store",
+        "description": "resources.store",
+        "peekOfCode": "class StoreList(Resource):\n    def get(self):\n        return {'stores': [store.json() for store in StoreModel.query.all()]}",
+        "detail": "resources.store",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "kind": 6,
+        "importPath": "resources.user",
+        "description": "resources.user",
+        "peekOfCode": "class UserRegister(Resource):\n    parser = reqparse.RequestParser()\n    parser.add_argument('username',\n                        type=str,\n                        required=True,\n                        help=\"This field can not be blank\")\n    parser.add_argument('password',\n                        type=str,\n                        required=True,\n                        help='This field can not be blank')",
+        "detail": "resources.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserTest",
+        "kind": 6,
+        "importPath": "tests.integration.test_user",
+        "description": "tests.integration.test_user",
+        "peekOfCode": "class UserTest(BaseTest):\n    def test_crud(self):\n        with self.app_context:\n            user = UserModel('test', 111)\n            self.assertIsNone(UserModel.find_by_username('test'))\n            self.assertIsNone(UserModel.find_by_id(1))\n            user.save_to_db()\n            self.assertIsNotNone(UserModel.find_by_username('test'))\n            self.assertIsNotNone(UserModel.find_by_id(1))",
+        "detail": "tests.integration.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "ItemTest",
+        "kind": 6,
+        "importPath": "tests.system.test_item",
+        "description": "tests.system.test_item",
+        "peekOfCode": "class ItemTest(BaseTest):\n    def set_up_auth(self):\n        with self.app_context:  # Use parentheses to properly enter the context\n            username = 'test'\n            password = \"1234\"\n            hashed_password = generate_password_hash(password) \n            # Check if the user already exists before creating a new one\n            if not UserModel.find_by_username(username):\n                user = UserModel(username, hashed_password)\n                user.save_to_db()",
+        "detail": "tests.system.test_item",
+        "documentation": {}
+    },
+    {
+        "label": "StoreTest",
+        "kind": 6,
+        "importPath": "tests.system.test_store",
+        "description": "tests.system.test_store",
+        "peekOfCode": "class StoreTest(BaseTest):\n    def test_create_store(self):\n        with self.client as client:\n            response = client.post('/store/test')\n            self.assertEqual(response.status_code, 201)\n            self.assertIsNotNone(StoreModel.find_by_name('test'))\n            self.assertDictEqual({'name': 'test', 'items': []}, response.json)\n    def test_create_duplicate_store(self):\n        with self.client as client:\n            client.post('/store/test')",
+        "detail": "tests.system.test_store",
+        "documentation": {}
+    },
+    {
+        "label": "UserTest",
+        "kind": 6,
+        "importPath": "tests.system.test_user",
+        "description": "tests.system.test_user",
+        "peekOfCode": "class UserTest(BaseTest):\n    def test_register_user(self):\n        with self.client as client:\n                response = client.post('/register', json={'username': \"elvin\",\n                                                         \"password\": 123})\n                self.assertEqual(response.status_code, 201)\n                self.assertIsNotNone(UserModel.find_by_username('elvin'))\n                self.assertDictEqual({\"message\": \"User created successfully\"}, response.json)\n    def test_register_and_login(self):\n        with self.client as client:",
+        "detail": "tests.system.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "UserTest",
+        "kind": 6,
+        "importPath": "tests.unit.test_user",
+        "description": "tests.unit.test_user",
+        "peekOfCode": "class UserTest(UnitBaseTest):\n    def test_create_user(self):\n        user = UserModel('test', 123)\n        self.assertEqual(user.username, 'test')\n        self.assertEqual(user.password, 123)",
+        "detail": "tests.unit.test_user",
+        "documentation": {}
+    },
+    {
+        "label": "UnitBaseTest",
+        "kind": 6,
+        "importPath": "tests.unit.unit_base_test",
+        "description": "tests.unit.unit_base_test",
+        "peekOfCode": "class UnitBaseTest(TestCase):\n    pass",
+        "detail": "tests.unit.unit_base_test",
+        "documentation": {}
+    },
+    {
+        "label": "BaseTest",
+        "kind": 6,
+        "importPath": "tests.base_test",
+        "description": "tests.base_test",
+        "peekOfCode": "class BaseTest(TestCase):    \n    @classmethod\n    def setUpClass(cls):        \n        cls.app = app  \n        cls.app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:vibos1Sql@localhost:3306/mytestdatabase'\n        cls.app.config['TESTING'] = True        \n        cls.app_context = cls.app.app_context()\n        cls.app_context.push()\n    @classmethod\n    def tearDownClass(cls):",
+        "detail": "tests.base_test",
+        "documentation": {}
+    },
+    {
+        "label": "user_identity_lookup",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def user_identity_lookup(user_id):\n    return user_id  # This stores `user.id` in the JWT token as \"sub\"\n@jwt.user_lookup_loader\ndef user_lookup_callback(_jwt_header, jwt_data):\n    return UserModel.find_by_id(jwt_data[\"sub\"])  # Retrieve user object from token\n# **Login endpoint**\n@app.route('/auth', methods=['POST'])\ndef auth():\n    from flask import request\n    data = request.get_json()",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "user_lookup_callback",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def user_lookup_callback(_jwt_header, jwt_data):\n    return UserModel.find_by_id(jwt_data[\"sub\"])  # Retrieve user object from token\n# **Login endpoint**\n@app.route('/auth', methods=['POST'])\ndef auth():\n    from flask import request\n    data = request.get_json()\n    print(\"Auth request received:\", data)  # Debugging\n    user = authenticate(data['username'], data['password'])\n    print(\"User found:\", user)  # Debugging",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "kind": 2,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "def auth():\n    from flask import request\n    data = request.get_json()\n    print(\"Auth request received:\", data)  # Debugging\n    user = authenticate(data['username'], data['password'])\n    print(\"User found:\", user)  # Debugging\n    if not user:\n        return jsonify({\"message\": \"Invalid Credentials\"}), 401\n    access_token = create_access_token(identity=str(user.id))\n    return jsonify(access_token=access_token), 200",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\napp.config['DEBUG'] = True\napp.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', 'mysql+pymysql://root:vibos1Sql@localhost:3306/mytestdatabase')\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.secret_key = 'vibo'\napi = Api(app)\njwt = JWTManager(app)  # No additional arguments\n# **Set up JWT callbacks**\n@jwt.user_identity_loader\ndef user_identity_lookup(user_id):",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['DEBUG']",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config['DEBUG'] = True\napp.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', 'mysql+pymysql://root:vibos1Sql@localhost:3306/mytestdatabase')\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.secret_key = 'vibo'\napi = Api(app)\njwt = JWTManager(app)  # No additional arguments\n# **Set up JWT callbacks**\n@jwt.user_identity_loader\ndef user_identity_lookup(user_id):\n    return user_id  # This stores `user.id` in the JWT token as \"sub\"",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_DATABASE_URI']",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', 'mysql+pymysql://root:vibos1Sql@localhost:3306/mytestdatabase')\napp.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.secret_key = 'vibo'\napi = Api(app)\njwt = JWTManager(app)  # No additional arguments\n# **Set up JWT callbacks**\n@jwt.user_identity_loader\ndef user_identity_lookup(user_id):\n    return user_id  # This stores `user.id` in the JWT token as \"sub\"\n@jwt.user_lookup_loader",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS']",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\napp.secret_key = 'vibo'\napi = Api(app)\njwt = JWTManager(app)  # No additional arguments\n# **Set up JWT callbacks**\n@jwt.user_identity_loader\ndef user_identity_lookup(user_id):\n    return user_id  # This stores `user.id` in the JWT token as \"sub\"\n@jwt.user_lookup_loader\ndef user_lookup_callback(_jwt_header, jwt_data):",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.secret_key = 'vibo'\napi = Api(app)\njwt = JWTManager(app)  # No additional arguments\n# **Set up JWT callbacks**\n@jwt.user_identity_loader\ndef user_identity_lookup(user_id):\n    return user_id  # This stores `user.id` in the JWT token as \"sub\"\n@jwt.user_lookup_loader\ndef user_lookup_callback(_jwt_header, jwt_data):\n    return UserModel.find_by_id(jwt_data[\"sub\"])  # Retrieve user object from token",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "api",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "api = Api(app)\njwt = JWTManager(app)  # No additional arguments\n# **Set up JWT callbacks**\n@jwt.user_identity_loader\ndef user_identity_lookup(user_id):\n    return user_id  # This stores `user.id` in the JWT token as \"sub\"\n@jwt.user_lookup_loader\ndef user_lookup_callback(_jwt_header, jwt_data):\n    return UserModel.find_by_id(jwt_data[\"sub\"])  # Retrieve user object from token\n# **Login endpoint**",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "jwt = JWTManager(app)  # No additional arguments\n# **Set up JWT callbacks**\n@jwt.user_identity_loader\ndef user_identity_lookup(user_id):\n    return user_id  # This stores `user.id` in the JWT token as \"sub\"\n@jwt.user_lookup_loader\ndef user_lookup_callback(_jwt_header, jwt_data):\n    return UserModel.find_by_id(jwt_data[\"sub\"])  # Retrieve user object from token\n# **Login endpoint**\n@app.route('/auth', methods=['POST'])",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "db",
+        "description": "db",
+        "peekOfCode": "db = SQLAlchemy()",
+        "detail": "db",
+        "documentation": {}
+    },
+    {
+        "label": "create_tables",
+        "kind": 2,
+        "importPath": "run",
+        "description": "run",
+        "peekOfCode": "def create_tables():\n    db.create_all()",
+        "detail": "run",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "kind": 2,
+        "importPath": "security",
+        "description": "security",
+        "peekOfCode": "def authenticate(username, password):\n    '''\n    Function That Gets Called When A User Calls The /auth Endpoint\n    With Their Username And Password.\n    :param username: User's username in string format.\n    :param password: User's un-encrypted password in string format.\n    :return: A UserModel if authentication was successful, None otherwise\n    '''\n    user = UserModel.find_by_username(username)\n    if user and check_password_hash(user.password, password):",
+        "detail": "security",
+        "documentation": {}
+    },
+    {
+        "label": "identity",
+        "kind": 2,
+        "importPath": "security",
+        "description": "security",
+        "peekOfCode": "def identity(payload):\n    user_id = payload['identity']\n    return UserModel.find_by_id(user_id)",
+        "detail": "security",
+        "documentation": {}
+    }
+]
