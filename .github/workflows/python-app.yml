@@ -52,4 +52,4 @@ jobs:
         JWT_SECRET_KEY: ${{ secrets.JWT_SECRET_KEY }}
         FLASK_ENV: testing
       run: |
-        pytest tests/ -v 
+        pytest -v 
