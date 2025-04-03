@@ -7,12 +7,19 @@ from resources.item import Item, ItemList
 from resources.store import Store, StoreList
 from resources.user import UserRegister
 from models.user import UserModel
-from security import authenticate, identity  # You can still import them
+from security import authenticate, identity  
+from dotenv import load_dotenv
 
 app = Flask(__name__)
 
+load_dotenv()
+db_host = os.getenv("DB_URL")
+db_name = os.getenv("DB_NAME")
+db_password = os.getenv("DB_PASSWORD")
+db_user = os.getenv("DB_USER")
+
 app.config['DEBUG'] = True
-app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', 'mysql+pymysql://root:vibos1Sql@localhost:3306/mytestdatabase')
+app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}"
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.secret_key = 'vibo'
 api = Api(app)

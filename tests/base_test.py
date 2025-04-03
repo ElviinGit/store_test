@@ -2,13 +2,20 @@ from unittest import TestCase
 from app import app
 from db import db
 from sqlalchemy.sql import text
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
+db_host = os.getenv("DB_URL")
+db_name = os.getenv("DB_NAME")
+db_password = os.getenv("DB_PASSWORD")
+db_user = os.getenv("DB_USER")
 
 class BaseTest(TestCase):    
     @classmethod
     def setUpClass(cls):        
         cls.app = app  
-        cls.app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql+pymysql://root:vibos1Sql@localhost:3306/mytestdatabase'
+        cls.app.config['SQLALCHEMY_DATABASE_URI'] = f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}"
         cls.app.config['TESTING'] = True        
         cls.app_context = cls.app.app_context()
         cls.app_context.push()
